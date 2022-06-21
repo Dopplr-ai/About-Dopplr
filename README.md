@@ -14,17 +14,22 @@ Designed with iPaaS capabilities, pre-built analytics accelerators, vir-tualized
 **One platform, multiple capabilities**
 
 🚀 **Speed to intelligence**
+
 Rapidly operationalize all your data to gain actionable insights — 
 Automated data ingestion, pre-built intuitive visualization components, drag-and-drop interface for AI/ML.
 
 🚀 **Speed to value**
+
 Pre-built, customizable components are offered as-a-service and can plug into existing data landscape, to drive results.
 
 🚀 **Speed to scale**
+
 Ability to scale up storage and compute quickly, along with automated data science helps more users across the business.
 
 🚀 **Speed to savings**
+
 Minimal upfront cost, with a pay-as-you-use model, and access to sandbox environments for quick prototyping.
 
 🚀 **Speed to ease**
+
 Low-code/no-code and tech-independent tools to help build and roll out intelligence apps, and a flexible engagement model.
